@@ -1,8 +1,6 @@
 # Getting Started with Firebase
 
-## Firebase Quickstarts for Android
-
-###### 
+###### Firebase Quickstarts for Android
 
 - Install the Android Studio
 - Clone the repository (git clone https://github.com/piumsudhara/SimpleAndroidApp.git)
