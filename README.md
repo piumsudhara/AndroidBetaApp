@@ -1,4 +1,4 @@
 # Getting Started with Firebase
 
-- Install the latest Android Studio 
+- Install the Android Studio
 - Clone the repository
